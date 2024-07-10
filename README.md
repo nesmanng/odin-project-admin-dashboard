@@ -1,1 +1,1 @@
-# odin-project-admin-dashboard
+This project's aim is to build an admin dashboard using mainly Grid, but does contain some elements of Flexbox.
